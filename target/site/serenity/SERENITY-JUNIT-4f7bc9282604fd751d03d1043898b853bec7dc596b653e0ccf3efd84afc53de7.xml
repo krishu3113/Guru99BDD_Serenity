@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Testing the Functionality of Guru99.com" skipped="0" tests="3" time="88.33" timestamp="2022-09-07 07:46:29"><testcase name="Test the valid Sign-In"/><testcase name="Test Dropdown and other methods"/><testcase name="Test Drag and Drop feature"/></testsuite>
